@@ -1,4 +1,4 @@
-# <BowoTS> BowoTS- <2022>
+# <BowoTS> BowoTS- 2022
 <Hola probando. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
