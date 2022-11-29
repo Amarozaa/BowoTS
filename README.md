@@ -2,9 +2,9 @@
 <Hola probando. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/<img src="/multimedia/battlebot_3_1.png" width="500" height="500">)
 
-
+/multimedia/battlebot_3_1.png
 
 ## Integrantes
 - Amaro Zurita - FCFM
