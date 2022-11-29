@@ -1,4 +1,4 @@
-# <BowoTS> BowoTS- 2022
+# <BowoTS> BowoTS - 2022
 <Hola probando. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
@@ -7,10 +7,10 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Amaro Zurita - FCFM
+- Alexia Roa - FCFM
+- Mario Fuentes - FCFM
+- Natalia Carrión - FCFM
 
 
 ## Descripción del proyecto
