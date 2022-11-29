@@ -1,10 +1,9 @@
 # <BowoTS> BowoTS - 2022
-<Hola probando. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Cakekiller!!!(Aca debe de ir una breve descripcion del proyecto)
 
-![Robot Ejemplo](/<img src="/multimedia/battlebot_3_1.png" width="500" height="500">)
+![Robot Ejemplo](/multimedia/battlebot_3_1.png)
 
-/multimedia/battlebot_3_1.png
+
 
 ## Integrantes
 - Amaro Zurita - FCFM
