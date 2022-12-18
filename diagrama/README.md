@@ -3,4 +3,4 @@
 Subir diagrama electromecánico realizado en [Fritzing](http://fritzing.org/home/)
 
 
-![Diagrama Ejemplo](/multimedia/diiseno_electromecanica.png)
+![Diagrama Ejemplo](/multimedia/diiseno_electromecanico.png)
