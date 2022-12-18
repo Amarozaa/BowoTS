@@ -52,7 +52,8 @@ El arma del robot es un taladro el cual permite perforar la armadura del robot c
 La defensa consiste en 2 moldes de queques(uno mas pequeño que el otro) que cubren por completo al robot, protegiendo incluso sus ruedas. Asi, a los contrincantes les resulta muy dificil hacerle daño a Quekiller!! 
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+
+![Robot Ejemplo](/multimedia/diseño_electromecanico.png)
 
 
 
