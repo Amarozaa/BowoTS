@@ -31,6 +31,7 @@ antes de ceder a la oscuridad, de la cual emergió el destructor de destructores
 QUEKILLER.
 
 ![Robot Ejemplo](/multimedia/battlebot_3_1.png)
+![Robot Ejemplo](/multimedia/increible_dibujo_alexia.png)
 
 
 
