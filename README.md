@@ -1,5 +1,6 @@
 # <BowoTS> BowoTS - 2022
-Quekiller!!! 
+Quekiller!!!
+  
 Era la fiesta del BRC, y todos los equipos se juntaban con alegría para compartir y comer
 juntos. No existían malas intenciones y todos esperaban felizmente poder compartir un
 trocito de pastel.
