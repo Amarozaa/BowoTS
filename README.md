@@ -1,5 +1,5 @@
 # <BowoTS> BowoTS - 2022
-Cakekiller!!!(Aca debe de ir una breve descripcion del proyecto)
+Quekiller!!!(Aca debe de ir una breve descripcion del proyecto)
 
 ![Robot Ejemplo](/multimedia/battlebot_3_1.png)
 
