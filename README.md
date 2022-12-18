@@ -53,7 +53,7 @@ La defensa consiste en 2 moldes de queques(uno mas pequeño que el otro) que cub
 
 ### Diagrama funcional
 
-![Robot Ejemplo](/multimedia/diseño_electromecanico.png)
+![Robot Ejemplo](/multimedia/diseno_electromecanico.png)
 
 
 
